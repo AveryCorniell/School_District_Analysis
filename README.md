@@ -16,8 +16,8 @@ Issues
 
 ### Tables presenting each of the following metrics are delivered as a part of this analysis:  
 - Top 5 and bottom 5 performing schools, based on the overall passing rate  
+![Top_5](https://user-images.githubusercontent.com/83401820/125694816-57be5c30-83f9-44b9-96ea-75e248e43c72.png)
 ![Bottom_5](https://user-images.githubusercontent.com/83401820/125694809-e4430560-6a3a-498b-b836-294a997af79f.png)  
-![Top_5](https://user-images.githubusercontent.com/83401820/125694816-57be5c30-83f9-44b9-96ea-75e248e43c72.png)  
 
 - The average math score received by students in each grade level at each school  
 ![Average_Math_ByGrade_NaN-THS](https://user-images.githubusercontent.com/83401820/125694817-c5226b8c-9a1c-4f73-b9a1-74116629d4fd.png)  
