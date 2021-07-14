@@ -16,22 +16,23 @@ Issues
 
 ### Tables presenting each of the following metrics are delivered as a part of this analysis:  
 - Top 5 and bottom 5 performing schools, based on the overall passing rate  
-
+![Bottom_5](https://user-images.githubusercontent.com/83401820/125694809-e4430560-6a3a-498b-b836-294a997af79f.png)  
+![Top_5](https://user-images.githubusercontent.com/83401820/125694816-57be5c30-83f9-44b9-96ea-75e248e43c72.png)  
 
 - The average math score received by students in each grade level at each school  
-
-
+![Average_Math_ByGrade_NaN-THS](https://user-images.githubusercontent.com/83401820/125694817-c5226b8c-9a1c-4f73-b9a1-74116629d4fd.png)  
+ 
 - The average reading score received by students in each grade level at each school  
-
+![Average_Reading_ByGrade_NaN-THS](https://user-images.githubusercontent.com/83401820/125694818-89170b11-0cfd-4dce-a0bd-42d64582f200.png)  
 
 - School performance based on the budget per student  
-
+![Performance_Budget](https://user-images.githubusercontent.com/83401820/125694813-8eca2e82-1d8d-48e2-b72c-30ea010b52c3.png)  
 
 - School performance based on the school size  
-
+![Performance_School_Size](https://user-images.githubusercontent.com/83401820/125694814-f5c484f0-104d-424e-a9c5-532327e7fd9e.png)  
 
 - School performance based on the type of school  
-
+![Performance_School_Type](https://user-images.githubusercontent.com/83401820/125694815-b905c953-fafc-4de1-91ee-0c15a8a49eab.png)  
   
 
 
@@ -62,6 +63,7 @@ Issues
 ## Results:  
 
 #### The district summary shows that:  
+![District_Summary_NaN-THS](https://user-images.githubusercontent.com/83401820/125694810-00fee603-77bd-4cb4-ad7a-95d28dc89150.png)  
 	- The total budget for all 15 schools in the district amounts to well over $25 million
 	- Of the 39,170 students in the district where 70% is a passing score 
 		- average math scores were 78.9  
@@ -74,6 +76,7 @@ Issues
 	- The total budget for all 15 schools in the district amounts to well over $25 million  
 	
 #### The school summary shows that with the exception of Thomas High School, the following is true:  
+![Per_School_NaN-THS](https://user-images.githubusercontent.com/83401820/125694811-23f9ae1c-1694-457f-ad09-45605097594d.png)  
 	- The Charter schools did considerbly better than the District schools  
 	- The Charter schools had a much smaller student body compared to the District schools  
 	- The Charter schools and and the District schools budgets per student are within $100 difference  
